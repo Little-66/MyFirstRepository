@@ -16,7 +16,7 @@
  not a git repository (or any of the parent directories): .git
  not a git repository (or any of the parent directories): .git
  not a git repository (or any of the parent directories): .git laomeng_fix
- not a git repository (or any of the parent directories): .gi3 master_fix master
+ not a git repository (or any of the parent directories): .gi3 master_fix master************
 
 
 
