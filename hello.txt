@@ -13,10 +13,10 @@
  not a git repository (or any of the parent directories): .git
  not a git repository (or any of the parent directories): .git
  not a git repository (or any of the parent directories): .git
+ not a git repository (or any of the parent directories): .Laomegit
  not a git repository (or any of the parent directories): .git
  not a git repository (or any of the parent directories): .git
- not a git repository (or any of the parent directories): .git
- not a git repository (or any of the parent directories): .gi3
+ not a git repository (or any of the parent directories): .gi3 
 
 
 
